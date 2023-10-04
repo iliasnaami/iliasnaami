@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ilias! <br/><a href="https://github.com/iliasnaami">Cyber Securuity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a>, 
+<h1>Hi, I'm Ilias! <br/><a href="https://github.com/iliasnaami">Cyber Securuity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
