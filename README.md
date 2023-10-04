@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Managing Security Risks</b>
   - [Conducting an internal security audit](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>📃Certifications:</h2>
 
-
+  - [Google Cyber Security Professional](google.com)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="IliasNaami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
