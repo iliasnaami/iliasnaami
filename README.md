@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Conducting an internal security audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Conducting an internal security audit](https://github.com/iliasnaami/internalSecurityAudit)
 
 <h2>📃Certifications:</h2>
 
