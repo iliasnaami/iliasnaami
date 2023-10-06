@@ -15,7 +15,7 @@
 
 
 [instagram]: https://www.instagram.com/iliasnaami/
-[linkedin]: (https://www.linkedin.com/in/ilias-naami-688392292/)
+[linkedin]: https://www.linkedin.com/in/ilias-naami-688392292/
 
 
 
