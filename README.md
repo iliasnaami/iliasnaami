@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Conducting an internal security audit](https://github.com/iliasnaami/internalSecurityAudit)
-  - [Network Traffic Anaylsis]
+  - [Network Traffic Anaylsis](https://github.com/iliasnaami/networkAnalysis-)
 
 <h2>📃Certifications:</h2>
 
