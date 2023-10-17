@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
   
   - Network
-    - [Network Traffic Anaylsis](https://github.com/iliasnaami/networkAnalysis-) 
+    - [Network DoS Attack Analysis](https://github.com/iliasnaami/networkAnalysis-) 
     - [SYN-Flood Attack](https://github.com/iliasnaami/networkAttack)
     - [OS Hardening](https://github.com/iliasnaami/OS-Hardening)
   - Audits
