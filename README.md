@@ -1,13 +1,12 @@
 <h1>Hi, I'm Ilias! <br/> Cyber Security Professional, Programmer</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-
   
- - <b>Network</b>
-    - [Network Traffic Anaylsis](https://github.com/iliasnaami/networkAnalysis-)
+  - Network
+    - [Network Traffic Anaylsis](https://github.com/iliasnaami/networkAnalysis-) 
     - [Network Attack](https://github.com/iliasnaami/networkAttack)
-      
-- [Conducting an internal security audit](https://github.com/iliasnaami/internalSecurityAudit)
+  - Audits
+    - [Conducting an internal security audit](https://github.com/iliasnaami/internalSecurityAudit)
 
 <h2>📃Certifications:</h2>
 
