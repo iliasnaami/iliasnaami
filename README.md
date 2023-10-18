@@ -6,6 +6,7 @@
     - [Network DoS Attack Analysis](https://github.com/iliasnaami/networkAnalysis-) 
     - [SYN-Flood Attack Analysis](https://github.com/iliasnaami/networkAttack)
     - [OS Hardening](https://github.com/iliasnaami/OS-Hardening)
+    - [Network Hardening](https://github.com/iliasnaami/networkHardening)
   - Audits
     - [Conducting an internal security audit](https://github.com/iliasnaami/internalSecurityAudit)
 
